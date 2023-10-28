@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShananinaVV.Sprint3.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShananinaVV.Sprint3.Task0.V20.Lib", "Tyuiu.ShananinaVV.Sprint3.Task0.V20.Lib\Tyuiu.ShananinaVV.Sprint3.Task0.V20.Lib.csproj", "{D8B1F346-1286-4330-BE27-6C4AD7D9EFC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShananinaVV.Sprint3.Task0.V20.Test", "Tyuiu.ShananinaVV.Sprint3.Task0.V20.Test\Tyuiu.ShananinaVV.Sprint3.Task0.V20.Test.csproj", "{1DED7CA8-8CF8-4309-AACD-FD4133F52F3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShananinaVV.Sprint3.Task0.V20.Test", "Tyuiu.ShananinaVV.Sprint3.Task0.V20.Test\Tyuiu.ShananinaVV.Sprint3.Task0.V20.Test.csproj", "{1F3AE6AA-36CD-4E4F-8237-997A5243AC3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +25,10 @@ Global
 		{D8B1F346-1286-4330-BE27-6C4AD7D9EFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8B1F346-1286-4330-BE27-6C4AD7D9EFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8B1F346-1286-4330-BE27-6C4AD7D9EFC6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1DED7CA8-8CF8-4309-AACD-FD4133F52F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1DED7CA8-8CF8-4309-AACD-FD4133F52F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1DED7CA8-8CF8-4309-AACD-FD4133F52F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1DED7CA8-8CF8-4309-AACD-FD4133F52F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3AE6AA-36CD-4E4F-8237-997A5243AC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3AE6AA-36CD-4E4F-8237-997A5243AC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3AE6AA-36CD-4E4F-8237-997A5243AC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3AE6AA-36CD-4E4F-8237-997A5243AC3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{1D6269E4-939C-4C7E-B5B1-A5374EAF932C} = {CE1007CE-D013-4AA7-866E-2AC1967E50B2}
 		{D8B1F346-1286-4330-BE27-6C4AD7D9EFC6} = {CE1007CE-D013-4AA7-866E-2AC1967E50B2}
+		{1F3AE6AA-36CD-4E4F-8237-997A5243AC3E} = {CE1007CE-D013-4AA7-866E-2AC1967E50B2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C87775E3-F5A4-4834-A5D9-1827942B15DA}
