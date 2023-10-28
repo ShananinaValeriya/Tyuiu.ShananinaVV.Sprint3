@@ -62,9 +62,10 @@ namespace Tyuiu.ShananinaVV.Sprint3.Task7.V4
             }
 
             Console.WriteLine("+----------+-----------+");
+            //Console.WriteLine("[{0}]", string.Join(", ", valueArray));
             Console.ReadKey();
 
-            //Console.WriteLine("[{0}]", string.Join(", ", valueArray));
+            
         }
     }
 }
